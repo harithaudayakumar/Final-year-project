@@ -204,7 +204,7 @@ def home():
 def predict():
     st.markdown("""
     <div class="hero">
-        <h1>🩺 Diabetes Risk Prediction</h1>
+        <h1>🩺 Diabetes Prediction With Machine Learning</h1>
         <p>Enter patient details for AI-based diabetes risk analysis</p>
     </div>
     """, unsafe_allow_html=True)
