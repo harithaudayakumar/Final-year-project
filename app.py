@@ -174,7 +174,7 @@ def signup():
 def home():
     st.markdown("""
     <div class="hero">
-        <h1>🩺 Diabetes Risk Prediction System</h1>
+        <h1>🩺 Diabetes Prediction With Machine Learning</h1>
         <p>AI-powered health risk assessment tool using Machine Learning</p>
     </div>
     """, unsafe_allow_html=True)
