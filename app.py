@@ -8,7 +8,7 @@ import requests
 from pathlib import Path
 from streamlit_lottie import st_lottie
 
-st.set_page_config(page_title="Diabetes Risk Prediction", page_icon="🩺", layout="wide")
+st.set_page_config(page_title="Diabetes Prediction With Machine Learning", page_icon="🩺", layout="wide")
 
 BASE_DIR = Path(__file__).parent
 USERS_FILE = BASE_DIR / "users.csv"
